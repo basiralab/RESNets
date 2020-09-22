@@ -4,7 +4,7 @@ RESNets (Residual Embedding Similarity-based Network Selection) for brain networ
 ![RESNets pipeline](mainfigure.png)
 
 > **RESNets (Residual Embedding Similarity-based Network Selection) for brain network evolution trajectory prediction from a single baseline observation** <br/>
-> Ahmet Serkan Göktaş<sup>1,2</sup>, Alaa Bessadok<sup>1</sup>, Islem Rekik<sup>1,2</sup><br/>
+> [Ahmet Serkan Göktaş](http://basira-lab.com/people/)<sup>1,2</sup>, [Alaa Bessadok](https://www.researchgate.net/profile/Alaa_Bessadok)<sup>1</sup>, [Islem Rekik](https://scholar.google.co.uk/citations?user=tb6CVoAAAAAJ&hl=en)<sup>1,2</sup><br/>
 > <sup>1</sup> BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
 > <sup>2</sup> Istanbul Technical University, Istanbul, Turkey
 > <sup>3</sup> LATIS Lab, ISITCOM, University of Sousse, Sousse, Tunisia
