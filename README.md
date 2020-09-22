@@ -4,7 +4,7 @@ RESNets (Residual Embedding Similarity-based Network Selection) for brain networ
 ![RESNets pipeline](mainfigure.png)
 
 > **RESNets (Residual Embedding Similarity-based Network Selection) for brain network evolution trajectory prediction from a single baseline observation** <br/>
-> [Ahmet Serkan Göktaş](http://basira-lab.com/people/)<sup>1,2</sup>, [Alaa Bessadok](https://www.researchgate.net/profile/Alaa_Bessadok)<sup>1</sup>, [Islem Rekik](https://scholar.google.co.uk/citations?user=tb6CVoAAAAAJ&hl=en)<sup>1,2</sup><br/>
+> [Ahmet Serkan Göktaş](https://github.com/ASerkanGoktas)<sup>1,2</sup>, [Alaa Bessadok](https://www.researchgate.net/profile/Alaa_Bessadok)<sup>3</sup>, [Islem Rekik](https://scholar.google.co.uk/citations?user=tb6CVoAAAAAJ&hl=en)<sup>1,2</sup><br/>
 > <sup>1</sup> BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
 > <sup>2</sup> Istanbul Technical University, Istanbul, Turkey
 > <sup>3</sup> LATIS Lab, ISITCOM, University of Sousse, Sousse, Tunisia
@@ -74,8 +74,7 @@ Dhifallah, S., Rekik, I.: Estimation of connectional brain templates using selec
 
 ```latex
 @inproceedings{goktas2020,
-title={Residual Embedding Similarity-Based Network Selection for Predicting Brain Network Evolution Trajectory from a Single Observation
-},
+title={Residual Embedding Similarity-Based Network Selection for Predicting Brain Network Evolution Trajectory from a Single Observation},
 author={Goktas, Ahmet Serkan and Bessadok, Alaa and Rekik, Islem},
 booktitle={International Workshop on PRedictive Intelligence In MEdicine},
 year={2020},
@@ -85,7 +84,7 @@ organization={Springer}
 
 # Acknowledgement
 
-I. Rekik is supported by the European Union’s Horizon 2020 research and in- novation programme under the Marie Sklodowska-Curie Individual Fellowship grant agreement No 101003403 (http://basira-lab.com/normnets/).
+I. Rekik is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie Individual Fellowship grant agreement No 101003403 (http://basira-lab.com/normnets/).
 
 
 # License
