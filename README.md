@@ -1,5 +1,5 @@
 # RESNets in Python (Residual Embedding Similarity-based Network Selection)
-RESNets (Residual Embedding Similarity-based Network Selection) for brain network evolution trajectory prediction from a single baseline observation, recoded by Ahmet Serkan Göktaş. Please contact goktasah16@itu.edu.tr for further inquiries. Thanks. 
+RESNets (Residual Embedding Similarity-based Network Selection) for brain network evolution trajectory prediction from a single baseline observation, coded up by Ahmet Serkan Göktaş. Please contact goktasah16@itu.edu.tr for further inquiries. Thanks. 
 
 ![RESNets pipeline](mainfigure.png)
 
