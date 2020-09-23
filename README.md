@@ -64,6 +64,15 @@ If you set number of subjects at baseline population (n_s) to 8, number of timep
   <img src="ex_results.png">
 </p>
 
+# YouTube videos to install and run the code and understand how RESNets works
+
+To install and run RESNets, check the following YouTube video:
+https://youtu.be/R0zdqTwGf_c
+
+To learn about how RESNets works, check the following YouTube video:
+https://youtu.be/UOUHe-1FfeY
+
+
 # Related references
 
 Banka, A., Rekik, I. In: Adversarial Connectome Embedding(ACE) for Mild Cognitive Impairment Identification Using Cortical Morphological Networks. (2019) 74–82. [DOI: https://doi.org/10.1007/978-3-030-32391-2_8]
